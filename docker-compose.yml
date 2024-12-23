@@ -10,5 +10,5 @@ services:
       - ./data:/var/lib/postgresql/data
     environment:
       - POSTGRES_DB=db
-      - POSTGRES_USER=login
+      - POSTGRES_USER=login20
       - POSTGRES_PASSWORD=9mREsvXDs9Gk89Ef
